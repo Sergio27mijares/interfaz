@@ -1,0 +1,10 @@
+{
+  "description": "Interactive zoo interface featuring an image carousel and detailed information to engage visitors and enhance their virtual experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
